@@ -58,7 +58,8 @@ Este proyecto forma parte de los desafíos propuestos en roadmap.sh, una platafo
 
 Si te ha gustado este proyecto, puedes votarlo y apoyarlo
 
-[🔗 Vota](https://roadmap.sh/projects/github-user-activity)
+[🔗 Project Page](https://roadmap.sh/projects/github-user-activity)
+[🗳️ Vota aqui](https://roadmap.sh/projects/github-user-activity/solutions?u=67c7868b580201fc77576cbe)
 
 ## 🚀 Lo que he aprendido con este proyecto
 
