@@ -1,0 +1,21 @@
+{
+  "name": "github-user-activity",
+  "version": "0.1.0",
+  "description": "CLI para mostrar la actividad reciente de usuarios en GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": ["github", "CLI", "activity"],
+  "author": "Sergio Jiménez <djsurgeon83@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "GitHub",
+    "url": "url"
+  },
+  "bin": {
+    "github-activity": "./index.js"
+  }
+}
