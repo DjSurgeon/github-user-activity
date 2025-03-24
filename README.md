@@ -65,7 +65,11 @@ Si te ha gustado este proyecto, puedes votarlo y apoyarlo
 Al desarrollar esta CLI, he practicado y mejorado mis habilidades en varias áreas clave del desarrollo backend y CLI con Node.js:
 
 ✔️ Manejo de APIs: Hacer peticiones HTTP a la API de GitHub usando https y manejar respuestas.
+
 ✔️ Manejo de errores: Implementar validaciones y gestión de errores para mejorar la estabilidad del programa.
+
 ✔️ Manejo de argumentos en la CLI: Leer y procesar argumentos pasados al ejecutar el script.
+
 ✔️ Modularización del código: Dividir la lógica en diferentes archivos (index.js, fetch.js, format.js) para mejorar la organización y reutilización del código.
+
 ✔️ Formateo y colores en la terminal: Mejorar la experiencia de usuario con colores y estilos en la salida de la CLI.
